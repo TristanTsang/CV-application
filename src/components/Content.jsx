@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import "./Content.css";
+import "../styles/Content.css";
 function Content(props) {
   return (
     <div className="content">

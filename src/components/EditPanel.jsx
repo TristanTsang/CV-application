@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import "./EditPanel.css";
+import "../styles/EditPanel.css";
 function EditPanel(props) {
   return (
     <div className="edit-panel">
