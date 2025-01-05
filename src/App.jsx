@@ -1,6 +1,6 @@
-import Content from "./content.jsx";
+import Content from "./components/Content.jsx";
 import { useState } from "react";
-import EditPanel from "./EditPanel.jsx";
+import EditPanel from "./components/EditPanel.jsx";
 
 function App() {
   const [name, setName] = useState("[First Last]");
