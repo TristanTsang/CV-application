@@ -1,0 +1,21 @@
+.edit-panel {
+  background-color: aqua;
+  flex: 1;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.two-columns {
+  padding-right: 10px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 10px;
+}
+input {
+  align-self: stretch;
+  width: auto;
+}
+
+.text-field {
+  flex-direction: column;
+  display: flex;
+}

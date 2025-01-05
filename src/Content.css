@@ -1,0 +1,9 @@
+.content {
+  background-color: lightgray;
+  flex: 1;
+  padding: 10px;
+}
+.row {
+  display: flex;
+  column-gap: 10px;
+}
